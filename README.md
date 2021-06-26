@@ -3,9 +3,12 @@ Simple client side form validation. Check required, length, email and password m
 
 ## Project Specifications
 <li> Create form UI </li>
-<p> Show error messages under specific inputs </p>
-<p> checkRequired() to accept array of inputs </p>
-<p> checkLength() to check min and max length </p>
-<p> checkEmail() to validate email with regex </p>
-<p> checkPasswordsMatch() to match confirm password </p>
+<li> Show error messages under specific inputs </li>
+<li> checkRequired() to accept array of inputs </li>
+<li> checkLength() to check min and max length </li>
+<li> checkEmail() to validate email with regex </li>
+<li> checkPasswordsMatch() to match confirm password </li>
+
+### From Brad Traversy's 20 Web Projects with Vanilla JavaScript course on Udemy 
+https://www.udemy.com/course/web-projects-with-vanilla-javascript/
 
