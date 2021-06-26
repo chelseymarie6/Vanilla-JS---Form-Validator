@@ -2,7 +2,7 @@
 Simple client side form validation. Check required, length, email and password match.
 
 ## Project Specifications
-<p> Create form UI </p>
+<li> Create form UI </li>
 <p> Show error messages under specific inputs </p>
 <p> checkRequired() to accept array of inputs </p>
 <p> checkLength() to check min and max length </p>
